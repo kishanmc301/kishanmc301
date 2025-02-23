@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Kishan M C
-- 👀 I’m interested in software devolopment engineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning  web application and devops concepts
 - 💞️ I’m looking forword oparcunity to devlop my skill
 - 📫 reach out to me kishanmckishanmc9@gmail.com
